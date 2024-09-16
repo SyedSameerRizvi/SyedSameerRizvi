@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyedSameerRizvi.
+- 👋 Hi, I’m Syed Sameer Rizvi.
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Data Science and Machine learning.
 - 📫 How to reach me:
