@@ -48,10 +48,11 @@
 <br/><br/>
 
 <hr/>
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">📈 Activity Graph 📈</h2>
 <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SyedSameerRizvi/SyedSameerRizvi/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedSameerRizvi&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="activity graph" />
+</div>
 
 <br/><br/>
 
