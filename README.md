@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · syedsameerrizvi</sub></p>
 <h1>Syed Sameer Rizvi</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>AI Engineer</h2>
 <p>AI/ML Engineer</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Pakistan</sub></p>
